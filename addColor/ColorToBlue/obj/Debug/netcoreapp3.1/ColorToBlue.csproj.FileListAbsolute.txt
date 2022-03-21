@@ -1,0 +1,14 @@
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\bin\Debug\netcoreapp3.1\ColorToBlue.exe
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\bin\Debug\netcoreapp3.1\ColorToBlue.deps.json
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\bin\Debug\netcoreapp3.1\ColorToBlue.runtimeconfig.json
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\bin\Debug\netcoreapp3.1\ColorToBlue.runtimeconfig.dev.json
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\bin\Debug\netcoreapp3.1\ColorToBlue.dll
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\bin\Debug\netcoreapp3.1\ColorToBlue.pdb
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\obj\Debug\netcoreapp3.1\ColorToBlue.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\obj\Debug\netcoreapp3.1\ColorToBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\obj\Debug\netcoreapp3.1\ColorToBlue.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\obj\Debug\netcoreapp3.1\ColorToBlue.AssemblyInfo.cs
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\obj\Debug\netcoreapp3.1\ColorToBlue.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\obj\Debug\netcoreapp3.1\ColorToBlue.dll
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\obj\Debug\netcoreapp3.1\ColorToBlue.pdb
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToBlue\obj\Debug\netcoreapp3.1\ColorToBlue.genruntimeconfig.cache

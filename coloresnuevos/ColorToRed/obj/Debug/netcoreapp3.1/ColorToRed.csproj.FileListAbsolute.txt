@@ -1,0 +1,14 @@
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\bin\Debug\netcoreapp3.1\ColorToRed.exe
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\bin\Debug\netcoreapp3.1\ColorToRed.deps.json
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\bin\Debug\netcoreapp3.1\ColorToRed.runtimeconfig.json
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\bin\Debug\netcoreapp3.1\ColorToRed.runtimeconfig.dev.json
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\bin\Debug\netcoreapp3.1\ColorToRed.dll
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\bin\Debug\netcoreapp3.1\ColorToRed.pdb
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\obj\Debug\netcoreapp3.1\ColorToRed.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\obj\Debug\netcoreapp3.1\ColorToRed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\obj\Debug\netcoreapp3.1\ColorToRed.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\obj\Debug\netcoreapp3.1\ColorToRed.AssemblyInfo.cs
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\obj\Debug\netcoreapp3.1\ColorToRed.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\obj\Debug\netcoreapp3.1\ColorToRed.dll
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\obj\Debug\netcoreapp3.1\ColorToRed.pdb
+C:\Users\franc\Desktop\MAP\Grupo17\addColor\ColorToRed\obj\Debug\netcoreapp3.1\ColorToRed.genruntimeconfig.cache

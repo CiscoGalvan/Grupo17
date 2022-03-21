@@ -4,4 +4,4 @@ Yo digo adios.
 Yo digo hola.
 
 
-Subida de colores
+Nueva funcionalidad añadida: customización de los colores del juego.
